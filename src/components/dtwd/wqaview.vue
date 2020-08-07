@@ -13,11 +13,11 @@
 		<router-link to="/#" tag="div" class="pase">
 			<img src="../../assets/imgs/11.png">
 		</router-link>
-		<router-link to="/#/#/#/##" tag="div">
+		<router-link to="/tdkce" tag="div">
 			<van-icon name="friends-o" size="40" />
 			<div>智能</div>
 		</router-link>
-		<router-link to="/#/#/##" tag="div">
+		<router-link to="/wot" tag="div">
 			<van-icon name="user-circle-o"  size="40" />
 			<div>我的</div>
 		</router-link>
@@ -58,4 +58,5 @@
  .router-link-active{
    color: #F38232;
  }
+
 </style>

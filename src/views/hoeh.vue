@@ -10,7 +10,7 @@
 			<wyrab></wyrab>
 		</div>
 		<div>
-			<wqaview></wqaview>
+			<wqaview class="pbsg"></wqaview>
 		</div>
 	</div>
 </template>
@@ -50,8 +50,8 @@
 		bottom: 0px;
 
 	}
-
 	.router-link-active {
 		color: #F38232;
 	}
+	
 </style>
